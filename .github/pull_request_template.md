@@ -2,5 +2,7 @@
 
 ## Checklist before merging
 
-- [ ] I have added thorough test.
-- [ ] Do we need to implement analytics?
+- [ ] Did you create new tests?
+- [ ] Did you update existing tests?
+- [ ] Did you update the documentation?
+- [ ] Did you update the README?
