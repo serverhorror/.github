@@ -1,10 +1,8 @@
 ---
 name: Issue
 about: A general issue
-title: ''
-labels: ''
-assignees: ''
-
+title: 'some title'
+labels: 'label1, label2'
 ---
 
 **Is your feature request related to a problem? Please describe.**
